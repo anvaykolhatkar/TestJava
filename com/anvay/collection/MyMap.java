@@ -6,5 +6,9 @@ public class MyMap {
 		// TODO Auto-generated method stub
 
 	}
+	
+	public MyMap() {
+		// Adding a default constructor
+	}
 
 }
